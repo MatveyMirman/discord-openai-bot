@@ -1,4 +1,3 @@
-.env
 checkpoint/*
 colab_downloaded/*
 aitextgen/*
