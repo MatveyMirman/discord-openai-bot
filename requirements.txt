@@ -2,3 +2,5 @@ discord
 asyncio
 python-dotenv
 openai
+click
+spacy
